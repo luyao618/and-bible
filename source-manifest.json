@@ -1,0 +1,30 @@
+{
+  "baseline_commit": "7e73c11508f32e4f531d531f6d5b110dd2a1f204",
+  "tested_component": "app/bibleview-js/src/components/memorize/WordType.vue",
+  "fixed_component_sha256": "fa98441a35333970452c52cf7fea916fe0bb51cb16c330a93ddbceed62cd7ca6",
+  "method": "Actual baseline/fixed Vue components mounted in an isolated headless Microsoft Edge browser. Settings and localized strings are mocked; literal fixture inputs, not loaded Bible modules. All panels receive input F. Not an Android app/device test.",
+  "configurations": [
+    "light",
+    "night",
+    "monochrome",
+    "noAnimation"
+  ],
+  "images": [
+    {
+      "name": "memorize-light.png",
+      "sha256": "0ec27a1b9d22b772f5e67d1584a48e47caad935cbf60900042d3f05f126aeafe"
+    },
+    {
+      "name": "memorize-night.png",
+      "sha256": "9d9b187f16616763d26b1b52bd299154b6afd76a2fe0e126365fb0390893cfba"
+    },
+    {
+      "name": "memorize-monochrome.png",
+      "sha256": "488a16bbbd0eb71321afb9056c535ff0714d5ab87e621ccc7086a12327328c5e"
+    },
+    {
+      "name": "memorize-noAnimation.png",
+      "sha256": "1afd6d999501350b192925fce337f03f52ad787da109b4b20869ef96f736d7ed"
+    }
+  ]
+}
